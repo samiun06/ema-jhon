@@ -1,0 +1,51 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+.product-description {
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.product-description p {
+    margin-top: 15px;
+}
+
+.product-specification p{
+    padding: 10px 0;
+}
+
+.product-specification button {
+    background-color: goldenrod;
+    padding: 5px 70px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-right: 300px;
+}
+
+.product-overall {
+    display: flex;
+}
+
+.product-feature ul li {
+    font-size: 12px;
+    color: gray;
+}
+
+.product-feature ul {
+    margin: 10px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.icon{
+    margin-right: 5px;
+}
+
+.starFilled {
+    color: #FFBD00;
+}
+

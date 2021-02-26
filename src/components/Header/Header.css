@@ -1,0 +1,22 @@
+.header-img {
+    display: block;
+    width: 18rem;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: #242424;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.navbar a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a:hover {
+    background: #AAA9A8;
+
+}
